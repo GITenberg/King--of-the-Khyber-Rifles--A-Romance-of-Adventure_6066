@@ -1,0 +1,46 @@
+_repo: King--of-the-Khyber-Rifles--A-Romance-of-Adventure_6066
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mundy, Talbot
+    alias: Gribbon, William Lancaster
+    birthdate: 1879
+    deathdate: 1940
+    gutenberg_agent_id: '1481'
+    url: http://www.gutenberg.org/2009/agents/1481
+    wikipedia: http://en.wikipedia.org/wiki/Talbot_Mundy
+description: "King of the Khyber Rifles is a novel by British writer Talbot Mundy.\
+  \ Captain Athelstan King is a secret agent for the British Raj at the beginning\
+  \ of the First World War. Heavily influenced both by Mundy's own unsuccessful career\
+  \ in India and by his interest in theosophy, it describes King's adventures among\
+  \ the (mostly Muslim) tribes of the north with the mystical woman adventuress, princess\
+  \ Yasmini and the Turkish mullah Muhammed Anim. Like Greenmantle by John Buchan,\
+  \ also first published in 1916, it deals with the possibility that Turkey might\
+  \ try to stir Muslims into a jihad against the British Empire.\nThe Khyber Rifles\
+  \ was and is an actual regiment.\nWhat was to be Mundy's third novel was originally\
+  \ serialised in Everybody's Magazine in nine parts from May 1916 illustrated by\
+  \ Joseph Clement Coll. It was published in book form in November 1916.\nThe book\
+  \ gave many characters and themes to the book The Peshawar Lancers, including the\
+  \ main character, Athelstane King.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Adventure
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6066'
+  wikidata: Q6412356
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcc 'PR'
+- !lcsh 'British -- India -- Fiction'
+- !lcsh 'India -- History -- Sepoy Rebellion, 1857-1858 -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'War stories'
+- GITenberg
+title: 'King--of the Khyber Rifles: A Romance of Adventure'
+url: http://www.gutenberg.org/ebooks/6066
+wikipedia:
+- https://en.wikipedia.org/wiki/King_of_the_Khyber_Rifles

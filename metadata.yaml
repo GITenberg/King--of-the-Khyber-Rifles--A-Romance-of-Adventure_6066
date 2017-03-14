@@ -1,5 +1,8 @@
 _repo: King--of-the-Khyber-Rifles--A-Romance-of-Adventure_6066
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mundy, Talbot
@@ -22,6 +25,8 @@ description: "King of the Khyber Rifles is a novel by British writer Talbot Mund
   \ Joseph Clement Coll. It was published in book form in November 1916.\nThe book\
   \ gave many characters and themes to the book The Peshawar Lancers, including the\
   \ main character, Athelstane King.\n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6066#King--of-the-Khyber-Rifles--A-Romance-of-Adventure
 gutenberg_bookshelf: Adventure
 gutenberg_issued: '2004-07-01'
 gutenberg_type: Text
